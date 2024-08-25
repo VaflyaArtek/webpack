@@ -20,5 +20,6 @@ export default (env: EnvVariables) => {
         paths
     })
 
+
     return config
 };
